@@ -1,0 +1,11 @@
+com\cloud\services\entity\Team.class
+com\cloud\services\controller\PlayerController.class
+com\cloud\services\repository\PlayerRepository.class
+com\cloud\services\service\PlayerServiceImpl.class
+com\cloud\services\entity\Player.class
+com\cloud\services\SpringGetPlayersApplication.class
+com\cloud\services\service\PlayerService.class
+com\cloud\services\service\TeamService.class
+com\cloud\services\controller\TeamController.class
+com\cloud\services\repository\TeamRepository.class
+com\cloud\services\service\TeamServiceImpl.class
